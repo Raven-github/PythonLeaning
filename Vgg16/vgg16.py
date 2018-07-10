@@ -205,5 +205,5 @@ if __name__ == '__main__':
     # for i in range(20,25):
     #  Search('老虎','data/tiger',i)
     #  Search('猫','data/cat',i)
-    #main_train()
-    main_to_pred()
+    main_train()
+    #main_to_pred()
